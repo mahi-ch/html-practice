@@ -1,1 +1,1 @@
-# webtech-assignments
+# html practice assignments
